@@ -53,7 +53,7 @@ To leverage the capabilities of our ASL Recognition Model, refer to the detailed
 
 ## Results
 
-Our meticulously trained ASL Recognition Model achieves an impressive accuracy of X% on the test dataset, accompanied by comprehensive performance metrics detailed in the README. These metrics showcase the model's precision, recall, and F1-score across different ASL classes, affirming its efficacy and reliability.
+Our meticulously trained ASL Recognition Model achieves an impressive accuracy of 94% on the test dataset, accompanied by comprehensive performance metrics detailed in the README. These metrics showcase the model's precision, recall, and F1-score across different ASL classes, affirming its efficacy and reliability.
 
 ## Future Improvements
 
