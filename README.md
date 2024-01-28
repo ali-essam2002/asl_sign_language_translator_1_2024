@@ -9,7 +9,10 @@ Certainly! Here's how you can include the model implementation in the README:
 Welcome to the ASL Recognition Model repository! This project is dedicated to advancing the field of American Sign Language (ASL) recognition through the development of a cutting-edge deep learning model. Our model aims to accurately identify ASL hand gestures representing letters and numbers, contributing to improved accessibility and communication for individuals with hearing impairments. Leveraging state-of-the-art convolutional neural networks (CNNs), our model pushes the boundaries of ASL recognition accuracy and robustness.
 
 ## Model Architecture
-![Untitled (3)](https://github.com/ali-essam2002/asl_sign_language_translator_1_2024/assets/111967131/f869ce87-29f6-453d-ae65-ff6f4f798be2)
+
+
+<img src="https://github.com/ali-essam2002/asl_sign_language_translator_1_2024/assets/111967131/f869ce87-29f6-453d-ae65-ff6f4f798be2" alt="Model Architecture" width="600">
+
 
 The ASL Recognition Model boasts a sophisticated architecture designed to handle the complexities of ASL hand gesture recognition:
 
